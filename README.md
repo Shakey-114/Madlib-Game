@@ -1,5 +1,5 @@
 # madlib-game
 
-# to run, open with python 
+# to run, open .py file with python 
 # answer inputs 
 # enjoy the game 
