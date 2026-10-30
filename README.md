@@ -1,8 +1,8 @@
-# Hi my name is shakey and im just starting to learn how to code 
-# this is the begining of my journey i hope you enjoy looking at my progress in the future
+# Hi, my name is Shakey, and I'm just starting to learn how to code 
+# This is the beginning of my journey; I hope you enjoy looking at my progress in the future
 
 # madlib-game
 
-# to run, open Madlib Game.py with python 
+# To run, open the "main" folder and run Madlib Game.py with Python 
 # answer inputs 
-# enjoy the game 
+# Enjoy the game 
